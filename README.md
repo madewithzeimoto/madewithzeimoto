@@ -23,5 +23,5 @@ Zeimoto is a **minimalist headless CMS** built for creators, developers, and sma
 
 ### 📫 Stay in the Loop
 
-💌 **[hello@zeimoto.com](mailto:hello@zeimoto.com)**  
-🌐 Follow progress: **[zeimoto.com](https://zeimoto.com)**
+💌 **[talktous@zeimoto.com](mailto:talktous@zeimoto.com)**
+🌐 Follow progress: **[www.zeimoto.com](https://www.zeimoto.com)**
