@@ -14,10 +14,13 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Zeimoto",
-  description: "A minimalist CMS built for clarity and focus.",
+  description: "A minimalist Headless CMS built for clarity and focus.",
+  alternates: {
+    canonical: "https://www.zeimoto.com",
+  },
   openGraph: {
     title: "Zeimoto",
-    description: "A minimalist CMS built for clarity and focus.",
+    description: "A minimalist Headless CMS built for clarity and focus.",
     url: "https://www.zeimoto.com",
     siteName: "Zeimoto",
     images: [
