@@ -5,7 +5,7 @@
       "source": "/:path*",
       "has": [{ "type": "host", "value": "zeimoto.com" }],
       "destination": "https://www.zeimoto.com/:path*",
-      "permanent": true
+      "statusCode": 301
     }
   ]
 }
