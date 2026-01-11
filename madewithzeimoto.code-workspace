@@ -26,7 +26,7 @@
 
     // Minimal suggestions
     "editor.codeLens": false,
-    "editor.hover.enabled": false,
+    "editor.hover.enabled": "off",
     "editor.minimap.enabled": false,
     "editor.suggest.showWords": true,
 

@@ -7,10 +7,10 @@ export default function Home() {
       <main className={styles.main}>
         <Image
           aria-hidden
-          src="/icon.svg"
-          alt="Zeitmoto Brandmark"
-          width={96}
-          height={96}
+          src="/secondary_lockup_cl_ruby.svg"
+          alt="zeimoto Brandmark"
+          width={142}
+          height={115}
           priority
         />
       </main>

@@ -1,6 +1,6 @@
-# 🚀 Zeimoto – Content Comes First
+# 🚀 zeimoto – Content Comes First
 
-Zeimoto is a **minimalist headless CMS** built for creators, developers, and small teams who want a **clean, content-focused workflow** without the clutter of traditional platforms.
+zeimoto is a **minimalist headless CMS** built for creators, developers, and small teams who want a **clean, content-focused workflow** without the clutter of traditional platforms.
 
 ---
 
